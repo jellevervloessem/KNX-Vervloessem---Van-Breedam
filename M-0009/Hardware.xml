@@ -1,0 +1,31 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<KNX xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema" CreatedBy="ETS5" ToolVersion="5.5.871.20012" xmlns="http://knx.org/xml/project/13">
+  <ManufacturerData>
+    <Manufacturer RefId="M-0009">
+      <Hardware>
+        <Hardware Id="M-0009_H-9.20.2F.2F.20WKT501-1" Name="WKT501 Interrupteur automatique 1 canal" SerialNumber="9 // WKT501" VersionNumber="1" IsAccessory="0" HasIndividualAddress="1" HasApplicationProgram="1" HasApplicationProgram2="0" IsPowerSupply="0" IsChoke="0" IsCoupler="0" IsPowerLineRepeater="0" IsPowerLineSignalFilter="0" IsCable="0" NonRegRelevantDataVersion="0" IsIPEnabled="0">
+          <Products>
+            <Product Id="M-0009_H-9.20.2F.2F.20WKT501-1_P-WKT501" Text="Interrupteur automatique 1 canal" OrderNumber="WKT501" IsRailMounted="0" DefaultLanguage="fr-FR" Hash="uaG4HaLIvibHXWBmhJvEMUb49Uk=" NonRegRelevantDataVersion="0">
+              <RegistrationInfo RegistrationStatus="Registered" RegistrationSignature="HkWwrrcWuPZIYRf60gIQzVBAo5z8afqiDEBO8WpK29ZkFPfDszYANU6ltEXOztLEZ6n5Ez8RAEO/kRqYhY6AuyoVX9W4ugab0J1a5cRCjhY068J3Icxex9tG063B1d5TsTeL10LxFEigTMuRc47L00AKFavSR9Vh4DAQr1hUHmE=" />
+            </Product>
+          </Products>
+          <Hardware2Programs>
+            <Hardware2Program Id="M-0009_H-9.20.2F.2F.20WKT501-1_HP-2057-10-B5F6" MediumTypes="MT-0" Hash="262iCfEDWWgnWtZ38kfCUsRYwEo=">
+              <ApplicationProgramRef RefId="M-0009_A-2057-10-B5F6" />
+              <RegistrationInfo RegistrationSignature="bMwVQgJ7lTR761rgr+wZrn2thKZb9g5QORcdQ2dPsqqaxgsQ6lNMbPT4oagXFbk1+nidnitJ4PZCCPJpUvYO98ZUUsV/glpVEKcaOXrqlVnN/CtBVeJh+M4dG76EjQMm9UhfE+3elbHrG/kV0A5J2QMod6VrQN9xJn+PVV2sw30=" OriginalRegistrationNumber="1900/0" RegistrationNumber="2006/7406" RegistrationStatus="Registered" />
+            </Hardware2Program>
+          </Hardware2Programs>
+        </Hardware>
+      </Hardware>
+      <Languages>
+        <Language Identifier="nl-NL">
+          <TranslationUnit RefId="M-0009_H-9.20.2F.2F.20WKT501-1_P-WKT501">
+            <TranslationElement RefId="M-0009_H-9.20.2F.2F.20WKT501-1_P-WKT501">
+              <Translation AttributeName="Text" Text="1-kanaal bewegingssensor" />
+            </TranslationElement>
+          </TranslationUnit>
+        </Language>
+      </Languages>
+    </Manufacturer>
+  </ManufacturerData>
+</KNX>

@@ -1,0 +1,15 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<KNX xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema" CreatedBy="ETS5" ToolVersion="5.5.871.20012" xmlns="http://knx.org/xml/project/13">
+  <ManufacturerData>
+    <Manufacturer RefId="M-0002">
+      <Baggages>
+        <Baggage TargetPath="AbbUsU" Name="AbbUsU.dll" Id="M-0002_BG-AbbUsU-AbbUsU.2Edll" FileIntegrity="7C4AE5D8">
+          <FileInfo Version="1.0.510.0" TimeInfo="2009-02-04T08:48:44Z" />
+        </Baggage>
+        <Baggage TargetPath="AbbUsU" Name="AbbUsU0407.loc" Id="M-0002_BG-AbbUsU-AbbUsU0407.2Eloc" FileIntegrity="00000000">
+          <FileInfo Version="1.0.510.0" TimeInfo="2009-02-04T07:48:44Z" />
+        </Baggage>
+      </Baggages>
+    </Manufacturer>
+  </ManufacturerData>
+</KNX>

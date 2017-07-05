@@ -1,0 +1,57 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<KNX xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema" CreatedBy="ETS5" ToolVersion="5.5.871.20012" xmlns="http://knx.org/xml/project/13">
+  <ManufacturerData>
+    <Manufacturer RefId="M-006C">
+      <Catalog>
+        <CatalogSection Id="M-006C_CS-BO" Name="Output Module" Number="BO" VisibleDescription="" DefaultLanguage="en-US">
+          <CatalogSection Id="M-006C_CS-BO-BO12" Name="Binary 12-Output" Number="BO12" VisibleDescription="Binary 12-Output" DefaultLanguage="en-US">
+            <CatalogItem Id="M-006C_H-BO12B01KNX-1_HP-0248-10-9948_CI-BO12B01KNX-2" Name="BO12B01KNX DIN Rail 12 Out Module - B01" Number="2" ProductRefId="M-006C_H-BO12B01KNX-1_P-BO12B01KNX" Hardware2ProgramRefId="M-006C_H-BO12B01KNX-1_HP-0248-10-9948" DefaultLanguage="en-US" />
+          </CatalogSection>
+        </CatalogSection>
+        <CatalogSection Id="M-006C_CS-PB" Name="Pulsantiere" Number="PB" VisibleDescription="" DefaultLanguage="it-IT">
+          <CatalogSection Id="M-006C_CS-PB-PB8" Name="8 Canali" Number="PB8" VisibleDescription="" DefaultLanguage="it-IT">
+            <CatalogItem Id="M-006C_H-PB80A-1_HP-0040-01-1CC1_CI-MB80A3xKNX-1" Name="MB80A3xKNX 8CH / TS - Nero" Number="1" ProductRefId="M-006C_H-PB80A-1_P-MB80A3xKNX" Hardware2ProgramRefId="M-006C_H-PB80A-1_HP-0040-01-1CC1" DefaultLanguage="it-IT" />
+          </CatalogSection>
+          <CatalogSection Id="M-006C_CS-PB-PB4" Name="4 Canali" Number="PB4" VisibleDescription="" DefaultLanguage="it-IT">
+            <CatalogItem Id="M-006C_H-PB40B-1_HP-0030-01-4AB4_CI-MB40B3xKNX-1" Name="MB40B3xKNX 4 CH - Nero" Number="1" ProductRefId="M-006C_H-PB40B-1_P-MB40B3xKNX" Hardware2ProgramRefId="M-006C_H-PB40B-1_HP-0030-01-4AB4" DefaultLanguage="it-IT" />
+            <CatalogItem Id="M-006C_H-PB40C-1_HP-0031-01-316F-O0001_CI-MB40C3xKNX-1" Name="MB40C3xKNX 4CH / 4IN / TS - Nero" Number="1" ProductRefId="M-006C_H-PB40C-1_P-MB40C3xKNX" Hardware2ProgramRefId="M-006C_H-PB40C-1_HP-0031-01-316F-O0001" DefaultLanguage="it-IT" />
+          </CatalogSection>
+        </CatalogSection>
+      </Catalog>
+      <Languages>
+        <Language Identifier="en-US">
+          <TranslationUnit RefId="M-006C_CS-PB">
+            <TranslationElement RefId="M-006C_CS-PB">
+              <Translation AttributeName="Name" Text="Push Buttons" />
+            </TranslationElement>
+          </TranslationUnit>
+          <TranslationUnit RefId="M-006C_CS-PB-PB8">
+            <TranslationElement RefId="M-006C_CS-PB-PB8">
+              <Translation AttributeName="Name" Text="8 Channels" />
+            </TranslationElement>
+          </TranslationUnit>
+          <TranslationUnit RefId="M-006C_H-PB80A-1_HP-0040-01-1CC1_CI-MB80A3xKNX-1">
+            <TranslationElement RefId="M-006C_H-PB80A-1_HP-0040-01-1CC1_CI-MB80A3xKNX-1">
+              <Translation AttributeName="Name" Text="MB80A3xKNX 8CH / TS - Black" />
+            </TranslationElement>
+          </TranslationUnit>
+          <TranslationUnit RefId="M-006C_CS-PB-PB4">
+            <TranslationElement RefId="M-006C_CS-PB-PB4">
+              <Translation AttributeName="Name" Text="4 Channels" />
+            </TranslationElement>
+          </TranslationUnit>
+          <TranslationUnit RefId="M-006C_H-PB40B-1_HP-0030-01-4AB4_CI-MB40B3xKNX-1">
+            <TranslationElement RefId="M-006C_H-PB40B-1_HP-0030-01-4AB4_CI-MB40B3xKNX-1">
+              <Translation AttributeName="Name" Text="MB40B3xKNX 4 CH - Black" />
+            </TranslationElement>
+          </TranslationUnit>
+          <TranslationUnit RefId="M-006C_H-PB40C-1_HP-0031-01-316F-O0001_CI-MB40C3xKNX-1">
+            <TranslationElement RefId="M-006C_H-PB40C-1_HP-0031-01-316F-O0001_CI-MB40C3xKNX-1">
+              <Translation AttributeName="Name" Text="MB40C3xKNX 4CH / 4IN / TS - Black" />
+            </TranslationElement>
+          </TranslationUnit>
+        </Language>
+      </Languages>
+    </Manufacturer>
+  </ManufacturerData>
+</KNX>

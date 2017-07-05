@@ -1,0 +1,37 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<KNX xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema" CreatedBy="ETS5" ToolVersion="5.5.871.20012" xmlns="http://knx.org/xml/project/13">
+  <ManufacturerData>
+    <Manufacturer RefId="M-0002">
+      <Hardware>
+        <Hardware Id="M-0002_H-2.20.2F.2F.20GHQ.20631.200074-1" Name="US/U2.2" SerialNumber="2 // GHQ 631 0074" VersionNumber="1" HasIndividualAddress="true" HasApplicationProgram="true" NoDownloadWithoutPlugin="true">
+          <Products>
+            <Product Id="M-0002_H-2.20.2F.2F.20GHQ.20631.200074-1_P-GH.20Q631.200074.20R0111" Text="US/U2.2 Universal Interface,2-fold,FM" OrderNumber="GH Q631 0074 R0111" IsRailMounted="false" DefaultLanguage="en-US" Hash="On96HEKN9wyoMvWoW85TFbRrvMU=">
+              <Attributes>
+                <Attribute Id="M-0002_H-2.20.2F.2F.20GHQ.20631.200074-1_P-GH.20Q631.200074.20R0111_AT-Series" Name="Series" Value="ETS2 V1.2a or higher" />
+              </Attributes>
+              <RegistrationInfo RegistrationStatus="Registered" RegistrationSignature="J5UsS88E7mMLMQIRYgG8dQa9o3gv0xYugyY1l3V1zvya65o+tu9PvUEozbblNoCQEc6R0F4BtKhvr/WUOiZDhdS9RgfB5XuW4cVLGa/rnuuPAwm4MiVUiyWuoykoJfY5vK0CKl5ro8+uqZFGbvo+AaE7/lrAS2mOXb115ncHjnw=" />
+            </Product>
+          </Products>
+          <Hardware2Programs>
+            <Hardware2Program Id="M-0002_H-2.20.2F.2F.20GHQ.20631.200074-1_HP-A002-13-28E8" MediumTypes="MT-0" Hash="RVUNtjgEi6EGKUi26R2hdp/9+1M=">
+              <ApplicationProgramRef RefId="M-0002_A-A002-13-28E8" />
+              <RegistrationInfo RegistrationStatus="Registered" RegistrationNumber="2005/7154" OriginalRegistrationNumber="1900/0" RegistrationSignature="d/QUsBceAj4CZnEVasQ/rTvaV+FUjK7S+7hodicruildbplzKEoexkW8Ax1q5+9Zhdl72+6hM2y1pIK1Z6yS8C2ScY75jtaqKBm0fz0IpduOvgkIK8casbaspe5rG2ubglm8qyD3g2UKihv7RRUArLr4qpcBtm+5t1CfJJ8FwbE=" />
+            </Hardware2Program>
+          </Hardware2Programs>
+        </Hardware>
+      </Hardware>
+      <Languages>
+        <Language Identifier="nl-NL">
+          <TranslationUnit RefId="M-0002_H-2.20.2F.2F.20GHQ.20631.200074-1_P-GH.20Q631.200074.20R0111">
+            <TranslationElement RefId="M-0002_H-2.20.2F.2F.20GHQ.20631.200074-1_P-GH.20Q631.200074.20R0111">
+              <Translation AttributeName="Text" Text="US/U 2.2 Universele in/uitgang 2-v inbouw" />
+            </TranslationElement>
+            <TranslationElement RefId="M-0002_H-2.20.2F.2F.20GHQ.20631.200074-1_P-GH.20Q631.200074.20R0111_AT-Series">
+              <Translation AttributeName="Value" Text="vanaf ETS2 V1.2a" />
+            </TranslationElement>
+          </TranslationUnit>
+        </Language>
+      </Languages>
+    </Manufacturer>
+  </ManufacturerData>
+</KNX>

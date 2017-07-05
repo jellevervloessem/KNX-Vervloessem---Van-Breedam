@@ -1,0 +1,123 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<KNX xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema" CreatedBy="ETS5" ToolVersion="5.5.871.20012" xmlns="http://knx.org/xml/project/13">
+  <ManufacturerData>
+    <Manufacturer RefId="M-006C">
+      <Hardware>
+        <Hardware Id="M-006C_H-BO12B01KNX-1" Name="Din Rail 12 Output Module B01" SerialNumber="BO12B01KNX" VersionNumber="1" BusCurrent="10" HasIndividualAddress="true" HasApplicationProgram="true">
+          <Products>
+            <Product Id="M-006C_H-BO12B01KNX-1_P-BO12B01KNX" Text="Din Rail 12 Output Module - B01" OrderNumber="BO12B01KNX" IsRailMounted="true" WidthInMillimeter="0" VisibleDescription="Din Rail 12 Output Module - B01" DefaultLanguage="en-US" Hash="kqHrIIjNEEHt9YlHySGhJHkY1o4=">
+              <RegistrationInfo RegistrationStatus="Certified" RegistrationDate="2015-09-01" RegistrationSignature="HvSi4f3sCkHsury1rYmt28YIBj3CXkBEmnTB1wYDdXMB+9MNSdFLM1yqR6Ox/kU+fUanNV3KMUnoGki+6Iu/8/8TjrteD251nJJOHyhKv2ZUcBlzXNqxwCWObOeUY/X7eriJyWr6t47/xECZYyoukR4jICXn6dE0/Ekr+YPoIsY=" />
+            </Product>
+          </Products>
+          <Hardware2Programs>
+            <Hardware2Program Id="M-006C_H-BO12B01KNX-1_HP-0248-10-9948" MediumTypes="MT-0" Hash="os/ZyH2lX52B4/+xdCyGse49Xkg=">
+              <ApplicationProgramRef RefId="M-006C_A-0248-10-9948" />
+              <RegistrationInfo RegistrationStatus="Certified" RegistrationNumber="2015/12514" RegistrationDate="2015-09-01" RegistrationSignature="cJpvSZbs1miq1KUsyw8mjy2IB4hm5+j1hW4Z952xi8ckdxio+5FaE9eWZlRZn7wIDUDgrru7dwYQuxLou+SekYVIyu/q7WKC/0KRas7+cK8EfYu6dEcDsjEy4VQgGz5TWalxuzqSrUm/aA9CJhfZ6FQVE4rLQ2nBxKID3T2ZMNc=" />
+            </Hardware2Program>
+          </Hardware2Programs>
+        </Hardware>
+        <Hardware Id="M-006C_H-PB80A-1" Name="Push Button 8 CH / TS " SerialNumber="PB80A" VersionNumber="1" BusCurrent="10" HasIndividualAddress="true" HasApplicationProgram="true">
+          <Products>
+            <Product Id="M-006C_H-PB80A-1_P-MB80A3xKNX" Text="Minipad 8 CH / TS - MB80A - Nero" OrderNumber="MB80A3xKNX" IsRailMounted="false" DefaultLanguage="it-IT" Hash="YGPdUQhH/NAqJHxK/jwSh5sCYbE=">
+              <Attributes>
+                <Attribute Id="M-006C_H-PB80A-1_P-MB80A3xKNX_AT-Colour" Name="Colour" Value="Nero" />
+              </Attributes>
+              <RegistrationInfo RegistrationStatus="Certified" RegistrationSignature="QP6xRTKcqjrPrAE6JZX5qMpHyoIKlN5EuL0d9bAqyyzykGR9yP05OuTkXHtaHr0H2WBbMFgrtd6jJH3BP5f9AR8l7nkq3wI5lbJVQQBz71H6sJSyohgBFCFQvMeOgY+ZlMucqauPp9UR88eSBELjLDxCvwL7hyVfdjojbe4mi8c=" />
+            </Product>
+          </Products>
+          <Hardware2Programs>
+            <Hardware2Program Id="M-006C_H-PB80A-1_HP-0040-01-1CC1" MediumTypes="MT-0" Hash="rnCrRj7jmMqCKF2HrmZWSyI06DE=">
+              <ApplicationProgramRef RefId="M-006C_A-0040-01-1CC1" />
+              <RegistrationInfo RegistrationStatus="Certified" RegistrationNumber="2013/10718" RegistrationSignature="KOFHRUNd9tRqsDWgNBvA8G17cGa4LZ9kueq8qSjmGUHA3uPnC5nZX9XDG20TKaNn24U9nvfiKP4vioDE7Qzoh8A0lNkMhveZAHpXK3UPsDmSkzKWCNLM9v5tXBiQntRRc7wqY7G6MRIiXP+PrB/SBN8mejtIakbwytdYqRfWkNE=" />
+            </Hardware2Program>
+          </Hardware2Programs>
+        </Hardware>
+        <Hardware Id="M-006C_H-PB40B-1" Name="Push Button 4 CH" SerialNumber="PB40B" VersionNumber="1" BusCurrent="10" HasIndividualAddress="true" HasApplicationProgram="true">
+          <Products>
+            <Product Id="M-006C_H-PB40B-1_P-MB40B3xKNX" Text="Minipad 4 CH - MB40B - Nero" OrderNumber="MB40B3xKNX" IsRailMounted="false" DefaultLanguage="it-IT" Hash="bky1DTUhgDF+xzYVVkUPvS5AOBM=">
+              <Attributes>
+                <Attribute Id="M-006C_H-PB40B-1_P-MB40B3xKNX_AT-Colour" Name="Colour" Value="Nero" />
+              </Attributes>
+              <RegistrationInfo RegistrationStatus="Certified" RegistrationSignature="TLokNGJZ7wzZS3kp7TobqNt+3Cnyg93xb91FryWfz2ul4ww8BcD3biykIu5UxERr+lnMy5eeK3DBmLJ/KN8f4hvULSvXG/32dQ92yXTPB31Jl/xJ7A7BcEoRlv0dNY/7VGP3vYwWLp6rg+5fJdPIEzB5N+wP5h2UooPXN2NnI44=" />
+            </Product>
+          </Products>
+          <Hardware2Programs>
+            <Hardware2Program Id="M-006C_H-PB40B-1_HP-0030-01-4AB4" MediumTypes="MT-0" Hash="w6VkvlsDCazDKSI/5Y/uZLZnnBA=">
+              <ApplicationProgramRef RefId="M-006C_A-0030-01-4AB4" />
+              <RegistrationInfo RegistrationStatus="Certified" RegistrationNumber="2013/10716" RegistrationSignature="nYyHvMERNiWsUuip5GMW4bz5J0RdC9ctu+bNrDz+3tkyEJ2lFrefj++Em5sifxiJjrN9YQip7r2dqR2hksdRHwwg6yoAQbz9FtP3ny6sfR0Zrf/STX3cCjY7vD0NF8y0K1nGSsKT7Dr4I7jynn2qsYJxs36X4OqCuhRhn8O0IRg=" />
+            </Hardware2Program>
+          </Hardware2Programs>
+        </Hardware>
+        <Hardware Id="M-006C_H-PB40C-1" Name="Push Button 4 CH / 4 IN / TS " SerialNumber="PB40C" VersionNumber="1" BusCurrent="10" HasIndividualAddress="true" HasApplicationProgram="true">
+          <Products>
+            <Product Id="M-006C_H-PB40C-1_P-MB40C3xKNX" Text="Minipad 4 CH / 4 IN / TS - MB40C - Nero" OrderNumber="MB40C3xKNX" IsRailMounted="false" DefaultLanguage="it-IT" Hash="GVK9YEOrd4Gw6ih2Dfi5ICIljTw=">
+              <Attributes>
+                <Attribute Id="M-006C_H-PB40C-1_P-MB40C3xKNX_AT-Colour" Name="Colour" Value="Nero" />
+              </Attributes>
+              <RegistrationInfo RegistrationStatus="Certified" RegistrationSignature="SQPHSTUH3UFmAicxn4r49gix3yhcIfDFpI/8UQxXDnvXZatmVeRYOMtKjXyh9Ly6EXl5NhRMwTNuole6ZNzV0TLzFix0rl6pmI+tePmPw8XWpPSun4qg5vHaN/33WnR1A76PygQwMIkphsi4RXsr/KmonC0SN7ss1XOuuvQksgw=" />
+            </Product>
+          </Products>
+          <Hardware2Programs>
+            <Hardware2Program Id="M-006C_H-PB40C-1_HP-0031-01-316F-O0001" MediumTypes="MT-0" Hash="QmtnYlWfeHf1sq8x/GRwbQ54B3U=">
+              <ApplicationProgramRef RefId="M-006C_A-0031-01-316F-O0001" />
+              <RegistrationInfo RegistrationStatus="Certified" RegistrationNumber="2013/10715" RegistrationSignature="cIvjMI6zBN9mXUyT33vufu0w+cznnR3JlBQzJxqmqX+3xUZdk8gxp4E2l4IppzHD6O6IuBVT/GX6sn3p3QvVmvGlBkB0HkgNwu62C8bMpDcnhYu60+R05zmbThN+g6kaPV4RrQtT50M0I0npzUCEoCuo6yBnIPmmyKrc0XT9kI8=" />
+            </Hardware2Program>
+          </Hardware2Programs>
+        </Hardware>
+        <Hardware Id="M-006C_H-DM04A01KNX-1" Name="DM04A01KNX" SerialNumber="DM04A01KNX" VersionNumber="1" BusCurrent="4.9999999e-003" IsAccessory="0" HasIndividualAddress="1" HasApplicationProgram="1" HasApplicationProgram2="0" IsPowerSupply="0" IsChoke="0" IsCoupler="0" IsPowerLineRepeater="0" IsPowerLineSignalFilter="0" IsCable="0" NonRegRelevantDataVersion="0" IsIPEnabled="0">
+          <Products>
+            <Product Id="M-006C_H-DM04A01KNX-1_P-1" Text="DM04A01KNX" OrderNumber="1" IsRailMounted="0" DefaultLanguage="en-US" Hash="yBYzcXrgJKrISwfmT+O/Cr057Yg=" NonRegRelevantDataVersion="0">
+              <RegistrationInfo RegistrationStatus="Unregistered" />
+            </Product>
+          </Products>
+          <Hardware2Programs>
+            <Hardware2Program Id="M-006C_H-DM04A01KNX-1_HP-0310-10-F326" MediumTypes="MT-0" Hash="bsb7pyT/Dmp46G17Xj4Ivb/f+vE=">
+              <ApplicationProgramRef RefId="M-006C_A-0310-10-F326" />
+              <RegistrationInfo RegistrationStatus="Unregistered" />
+            </Hardware2Program>
+          </Hardware2Programs>
+        </Hardware>
+      </Hardware>
+      <Languages>
+        <Language Identifier="en-US">
+          <TranslationUnit RefId="M-006C_H-PB80A-1_P-MB80A3xKNX">
+            <TranslationElement RefId="M-006C_H-PB80A-1_P-MB80A3xKNX">
+              <Translation AttributeName="Text" Text="Minipad 8 CH / TS - MB80A - Black" />
+            </TranslationElement>
+            <TranslationElement RefId="M-006C_H-PB80A-1_P-MB80A3xKNX_AT-Colour">
+              <Translation AttributeName="Value" Text="Black" />
+            </TranslationElement>
+          </TranslationUnit>
+          <TranslationUnit RefId="M-006C_H-PB40B-1_P-MB40B3xKNX">
+            <TranslationElement RefId="M-006C_H-PB40B-1_P-MB40B3xKNX">
+              <Translation AttributeName="Text" Text="Minipad 4 CH - MB40B - Black" />
+            </TranslationElement>
+            <TranslationElement RefId="M-006C_H-PB40B-1_P-MB40B3xKNX_AT-Colour">
+              <Translation AttributeName="Value" Text="Black" />
+            </TranslationElement>
+          </TranslationUnit>
+          <TranslationUnit RefId="M-006C_H-PB40C-1_P-MB40C3xKNX">
+            <TranslationElement RefId="M-006C_H-PB40C-1_P-MB40C3xKNX">
+              <Translation AttributeName="Text" Text="Minipad 4 CH / 4 IN / TS - MB40C - Black" />
+            </TranslationElement>
+            <TranslationElement RefId="M-006C_H-PB40C-1_P-MB40C3xKNX_AT-Colour">
+              <Translation AttributeName="Value" Text="Black" />
+            </TranslationElement>
+          </TranslationUnit>
+          <TranslationUnit RefId="M-006C_H-DM04A01KNX-1_P-1">
+            <TranslationElement RefId="M-006C_H-DM04A01KNX-1_P-1">
+              <Translation AttributeName="Text" Text="DM04A01KNX" />
+            </TranslationElement>
+          </TranslationUnit>
+        </Language>
+        <Language Identifier="it-IT">
+          <TranslationUnit RefId="M-006C_H-DM04A01KNX-1_P-1">
+            <TranslationElement RefId="M-006C_H-DM04A01KNX-1_P-1">
+              <Translation AttributeName="Text" Text="DM04A01KNX" />
+            </TranslationElement>
+          </TranslationUnit>
+        </Language>
+      </Languages>
+    </Manufacturer>
+  </ManufacturerData>
+</KNX>
